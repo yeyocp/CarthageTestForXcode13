@@ -7,7 +7,7 @@
 
 import UIKit
 import RxSwift
-import Charts
+import RxCocoa
 
 import IQKeyboardManager
 
