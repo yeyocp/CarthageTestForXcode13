@@ -1,0 +1,6 @@
+#FMDB
+
+github "ccgus/fmdb" == 2.7.5
+github "danielgindi/Charts" == 3.4.0
+github "hackiftekhar/IQKeyboardManager" == 6.5.0
+github "ReactiveX/RxSwift" == 6.2.0
